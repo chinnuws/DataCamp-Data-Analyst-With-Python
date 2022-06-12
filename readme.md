@@ -1,4 +1,4 @@
-## 👨‍💻 [DATACAMP:Data Analyst with Python](https://learn.datacamp.com/career-tracks/data-analyst-with-python) 
+## 👨‍💻 [DATACAMP : Data Analyst with Python](https://learn.datacamp.com/career-tracks/data-analyst-with-python) 
 
 <br>
 
